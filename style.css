@@ -1,0 +1,20 @@
+/*
+Theme Name: Marketify - Child Theme
+Theme URI: http://astoundify.com/themes/marketify
+Author: Astoundify
+Author URI: http://astoundify.com
+Description: Your beautiful handcrafted digital marketplace.
+Version: 1.0
+License: GNU General Public License
+License URI: license.txt
+Text Domain: marketify
+Domain Path: /languages/
+Tags: white, two-column, one-column, right-sidebar, left-sidebar, flexible-width, custom-background, custom-header, theme-options, full-width-template, featured-images, flexible-header, custom-menu, translation-ready
+Template: marketify
+*/
+
+@import url('../marketify/style.css');
+
+/**
+ * Place Custom CSS Below this.
+ */
